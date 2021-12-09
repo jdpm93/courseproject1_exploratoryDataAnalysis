@@ -1,2 +1,2 @@
 # courseproject1_exploratoryDataAnalysis
-Repository for course project 1 exploratory data analysis coursera course JHU - Juan David Palacios Machado
+This is the Repository for course project 1 in the course exploratory data analysis from coursera and Johns Hopkings University - Created by Juan David Palacios Machado
